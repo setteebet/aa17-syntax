@@ -1,18 +1,18 @@
 {
   "name": "aa17-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
-"description": "ssslotto✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
-"keywords": [
-"ssslotto",
-"เว็บแทงหวยลาว",
-"lottovip vip",
-"หวย24ออนไลน์",
-"ล็อตตารี่สด"
-],
+  "version": "0.2.0",
+  "description": "ssslotto✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+  "keywords": [
+    "ssslotto",
+    "เว็บแทงหวยลาว",
+    "lottovip vip",
+    "หวย24ออนไลน์",
+    "ล็อตตารี่สด"
+  ],
   "repository": "https://github.com/setteebet/aa17-syntax.git",
   "license": "MIT",
   "engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
